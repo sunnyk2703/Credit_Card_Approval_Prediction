@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💳 Credit Card Approval Prediction using Machine Learning
 
 A Flask-based Machine Learning web application that predicts whether a credit card/loan application will be **Approved** or **Rejected** based on applicant details.
@@ -155,3 +156,55 @@ The application is deployed using **Render**.
 **Sunny**
 
 GitHub: YOUR_GITHUB_LINK
+=======
+# Credit Card Approval Prediction
+
+## Overview
+This project predicts whether a credit card/loan application will be approved using Machine Learning.
+
+## Technologies Used
+- Python
+- Flask
+- HTML
+- CSS
+- JavaScript
+- Scikit-learn
+- Pandas
+
+## Features
+- Predict Approval/Rejection
+- Responsive UI
+- Machine Learning Model
+- Live Deployment
+
+## Project Structure
+dataset/
+model/
+static/
+templates/
+app.py
+train_model.py
+requirements.txt
+
+## Run Locally
+
+pip install -r requirements.txt
+
+python app.py
+
+## Live Demo
+Paste your Render URL here.
+
+## GitHub Repository
+Paste your GitHub URL here.
+## Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Approved Prediction
+![Approved](screenshots/approved.png)
+
+### Rejected Prediction
+![Rejected](screenshots/rejected.png)
+>>>>>>> 17754c7 (Added README, screenshots and documentation)
